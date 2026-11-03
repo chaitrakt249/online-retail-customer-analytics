@@ -331,7 +331,29 @@ online-retail-customer-analytics/
 ```
 
 ---
+## 📊 Dashboard Preview
 
+### Executive Overview
+
+![Executive Overview](dashboard/executive_overview.png)
+
+### Customer Analytics
+
+![Customer Analytics](dashboard/customer_analytics.png)
+
+### Customer Retention & Product Performance
+
+![Customer Retention & Product Performance](dashboard/customer_retention_product_performance.png)
+
+---
+
+## 🚀 Project Outcome
+
+This project demonstrates an end-to-end data analytics workflow:
+
+**Raw Data → Data Cleaning → Exploratory Analysis → Customer Analytics → RFM → Cohort Analysis → SQL → Power BI → Business Recommendations**
+
+The project demonstrates practical skills in **data cleaning, SQL analysis, customer segmentation, data visualisation, dashboard development, and business-oriented analytics**.
 ## 🚀 Project Outcome
 
 This project demonstrates an end-to-end data analytics workflow:
